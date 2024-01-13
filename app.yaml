@@ -1,4 +1,4 @@
-runtime: python3.9
+runtime: python39
 
 handlers:
 - url: /static
